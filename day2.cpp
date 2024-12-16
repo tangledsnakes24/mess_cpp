@@ -15,6 +15,23 @@ int main()
 
 
 
+    // intiger (whole number)
+    int z = 7;
+    //double (number with decimals)
+    double price = 7.87;
+    std::cout << price << "\n";
+
+    // char stores single character
+    char q = 'a';
+
+    // boolean variable
+    bool lies = true; //could also be false
+
+    //string (object that represents a sequence of text)
+    std::string personname = "bob";
+    std::cout << personname << "\n";
+
+
 
 
     return 0;
