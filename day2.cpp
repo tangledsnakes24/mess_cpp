@@ -30,7 +30,8 @@ int main()
     //string (object that represents a sequence of text)
     std::string personname = "bob";
     std::cout << personname << "\n";
-
+    // show variable name and text 
+    std::cout << "hello " << personname << "\n";
 
 
 
