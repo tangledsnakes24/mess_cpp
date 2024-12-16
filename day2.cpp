@@ -7,10 +7,11 @@ int main()
     x = 5; // store value 5  in x  
     // the above steps can be combined by doing int x = 5;
     int y = 6;
-
+    int sum = x + y;
 
     std::cout << x << "\n"; // display value stored in x
     std::cout << y << "\n";
+    std::cout << sum << "\n";
 
 
 
